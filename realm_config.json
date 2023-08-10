@@ -4,5 +4,6 @@
     "name": "bittask",
     "location": "US-VA",
     "provider_region": "aws-us-east-2",
-    "deployment_model": "LOCAL"
+    "deployment_model": "LOCAL",
+    "environment": "development"
 }
